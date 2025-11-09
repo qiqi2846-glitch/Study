@@ -1,0 +1,17 @@
+[
+   {
+      "code": "1",
+      "name": "Heineken",
+      "price": "19000"
+   },
+   {
+      "code": "2",
+      "name": "Tiger",
+      "price": "19000"
+   },
+   {
+      "code": "3",
+      "name": "Sapporo",
+      "price": "22000"
+   }
+]
